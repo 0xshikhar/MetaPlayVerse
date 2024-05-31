@@ -37,18 +37,15 @@ We empower streamers by eliminating high commission rates, eradicating arbitrary
 ## 💡 Challenges We ran into
 
 #### SUI Blockchain
-We are using SUI blockchain which is based on Move language for smart contract implementation. It is quite new for us as we have developed on Solidity and Rust only earlier. Given the time frame of 2 days, we learned lots of new things especially faced lots of issues with move contract integration with frontend. SUI team is very helpful and supportive and provided us with the required resources and docs to resolve the issues.
+We are using SUI blockchain which is based on Move language for smart contract implementation. It is quite new for us as we have developed on Solidity and Rust only earlier. We learned lots of new things especially faced lots of issues with move contract integration with frontend. SUI team is very helpful and supportive and provided us with the required resources and docs to resolve the issues.
 
 #### ZK Login Issue
- We are trying to implement ZK login for the users to login to the platform using Google account. We are using @mysten/zklogin which is quite new and facing lots of issues with docs implementation. We have discussed the issue with SUI team at hackathon and they are too helpful and connected with their ZK developer on telegram - who have finally helped us to resolve the issue in the last moment.
+ We are trying to implement ZK login for the users to login to the platform using Google account. We are using @mysten/zklogin which is quite new and facing few issues with docs implementation.
 
  #### LivePeer Integration
   We are trying to integrate LivePeer for live streaming of the games. We have integrated the LivePeer SDK with the frontend but facing issues with the LivePeer API. Took us some time and we have successfully solved the issue.
 
  ## Demo <a name = "demo"></a>
-
-
-https://suiplayverse.vercel.app/
 
 https://sui.metaplayverse.xyz/
 
